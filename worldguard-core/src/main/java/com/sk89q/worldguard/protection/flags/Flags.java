@@ -212,7 +212,7 @@ public final class Flags {
      *              in a future release. If you depend on the type of this flag, take proper precaution for future breakage.
      */
     @Deprecated
-    public static final StringFlag DENY_MESSAGE = null
+    public static final StringFlag DENY_MESSAGE = null;
     /**
      * @deprecated The type of this flag will change from a StringFlag to a ComponentFlag to support JSON text
      *              in a future release. If you depend on the type of this flag, take proper precaution for future breakage.
